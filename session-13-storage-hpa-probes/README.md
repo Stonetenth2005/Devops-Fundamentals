@@ -1,6 +1,6 @@
 # Session 13: Kubernetes Storage, HPA and Probes
 
-**Name:** Nishant
+**Name:** Tushar
 **Course:** SST DevOps & Cloud [SWE]
 **Session:** 13
 
